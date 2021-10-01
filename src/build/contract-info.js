@@ -2,7 +2,7 @@ import Web3 from 'web3';
 const web3 = new Web3(Web3.givenProvider)
 
 
-const contractAddress = "0x18A6034583EB867276B272fb9AF6144F94280260"
+const contractAddress = "your-contract-info"
 const contractABI = [
 	{
 		"inputs": [],
